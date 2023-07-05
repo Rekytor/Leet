@@ -1,0 +1,3 @@
+Dear Diary
+I completed this mission in like 5 or 6 hours (i'm crying) with old school tactics.
+Since i forgot the usage of pointers which helps with only getting the addresses of values, it used a lot of runtime and a little more memory than necessary
